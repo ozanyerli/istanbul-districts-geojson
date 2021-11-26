@@ -1,5 +1,5 @@
-# İstanbul Districts GEOJSON
+# İstanbul Districts GeoJSON
 
-Districts map of İstanbul in GEOJSON format.
+Districts map of İstanbul in GeoJSON format.
 
-GEOJSON formatında İstanbul ilçe haritası.
+GeoJSON formatında İstanbul ilçe haritası.
